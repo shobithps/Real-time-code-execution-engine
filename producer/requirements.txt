@@ -1,0 +1,5 @@
+fastapi==0.104.1
+uvicorn
+kafka-python==2.0.2
+python-multipart==0.0.6
+redis

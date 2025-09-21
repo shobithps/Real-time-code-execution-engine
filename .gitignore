@@ -1,0 +1,40 @@
+# Ignore node_modules in frontend
+/frontend/node_modules/
+
+# Build output
+/frontend/dist/
+/frontend/build/
+/frontend/.next/
+/frontend/.nuxt/
+/frontend/out/
+
+# Logs
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
+
+# OS generated files
+/frontend/.DS_Store
+/frontend/Thumbs.db
+
+# Environment files
+/frontend/.env
+/frontend/.env.*.local
+/frontend/.env.local
+
+# Editor directories and files
+/frontend/.vscode/
+/frontend/.idea/
+/frontend/*.sublime-workspace
+/frontend/*.sublime-project
+
+# Dependency directories
+/frontend/.pnp
+/frontend/.pnp.js
+
+# Misc
+/frontend/.eslintcache
+/frontend/.parcel-cache
+/frontend/.cache
+/frontend/.turbo
